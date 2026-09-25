@@ -1,3 +1,5 @@
+[![CI](https://github.com/Rohitreddy23/can-signal-packer/actions/workflows/ci.yml/badge.svg)](https://github.com/Rohitreddy23/can-signal-packer/actions)
+
 # CAN Signal Packer
 
 A small, dependency-free **C library** for packing and unpacking CAN
